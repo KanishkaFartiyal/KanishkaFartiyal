@@ -1,6 +1,6 @@
-## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on python and ML (projects)<br>👯 I’m looking to collaborate on interesting projects<br>🤝 I’m looking for help with internships<br>🌱 I’m currently learning python<br>
+🔭 I’m currently working on python and ML (projects)<br> I’m looking to collaborate on interesting projects<br>🤝 I’m looking for help with internships<br>🌱 I’m currently learning python<br>-
+
 
 
 ## 🌐 Socials:
