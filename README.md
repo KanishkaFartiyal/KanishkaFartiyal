@@ -1,19 +1,70 @@
-#  About Me:
-I’m currently working on data analysis projects<br> I’m looking to collaborate on interesting projects<br> I’m looking for help with internships<br> I’m currently learning analysis tools<br>-
+# Hi, I'm Kanishka 👋
 
+Data analyst based in Bangalore. I turn messy data into decisions that make sense.
 
+I work with Python and SQL to clean, explore, and visualise data. I'm currently looking for internships and freelance projects where I can actually contribute — not just fetch coffee and shadow people.
 
-##  Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishkafartiyal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanishkafartiyal@gmail.com) 
+If you've got data that needs making sense of, let's talk.
 
-#  Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-<!--# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KanishkaFartiyal&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KanishkaFartiyal&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkaFartiyal&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## What I work with
 
- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| | Tool | Details |
+|---|---|---|
+| 🐍 | **Python** | pandas · numpy · matplotlib · seaborn |
+| 🗄️ | **SQL** | MySQL · queries · joins · aggregations |
+| 📊 | **Power BI** | dashboards · reports · data storytelling |
+| 🎨 | **Figma** | mockups · wireframes · design flows |
+
+---
+
+## Projects
+
+### 🛒 E-commerce sales analysis
+Explored 100,000+ real orders to uncover buying patterns and segment customers using KMeans clustering. Identified three distinct customer groups — the findings can directly shape how a business targets its marketing spend.
+
+`Python` `pandas` `scikit-learn` `EDA` `KMeans clustering`
+
+[→ View repo](https://github.com/KanishkaFartiyal/Ecommerce-sales-analysis)
+
+---
+
+### 👥 ATS recruitment system
+Built a Python-based applicant tracking tool that parses and ranks candidates against job requirements. Reduces the manual screening workload for small hiring teams.
+
+`Python` `NLP` `automation`
+
+[→ View repo](https://github.com/KanishkaFartiyal/ATS_Recruitement-system_project)
+
+---
+
+### 🌍 WanderNLearn — 3D educational web app
+Interactive 3D learning environment for kids built with JavaScript. Designed the full UI in Figma before building — shows I can go from idea to shipped product.
+
+`JavaScript` `Figma` `UI design` `3D web`
+
+[→ View repo](https://github.com/KanishkaFartiyal/WanderNLearn)
+
+---
+
+## What I'm working on right now
+
+Currently building out more end-to-end analysis projects and getting deeper into data visualisation. Also exploring how to make SQL queries faster — turns out optimisation is a rabbit hole.
+
+---
+
+## Open to
+
+- 📌 Data analyst internships
+- 💼 Freelance data projects
+- 📈 Dashboard & reporting work
+
+---
+
+## Get in touch
+
+If you're working on something interesting or need someone to make sense of your data, reach out. I reply fast.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishkafartiyal)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanishkafartiyal@gmail.com)
