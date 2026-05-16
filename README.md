@@ -15,7 +15,7 @@ If you've got data that needs making sense of, let's talk.
 | 🐍 | **Python** | pandas · numpy · matplotlib · seaborn |
 | 🗄️ | **SQL** | MySQL · queries · joins · aggregations |
 | 📊 | **Power BI** | dashboards · reports · data storytelling |
-| 🎨 | **Figma** | mockups · wireframes · design flows |
+
 
 ---
 
