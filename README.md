@@ -24,26 +24,6 @@ If you've got data that needs making sense of, let's talk.
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 
----
-
-## GitHub stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=KanishkaFartiyal&show_icons=true&hide_border=true&count_private=true&theme=default" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KanishkaFartiyal&layout=compact&hide_border=true&theme=default" />
-    </td>
-  </tr>
-</table>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KanishkaFartiyal&theme=default&hide_border=true)](https://git.io/streak-stats)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KanishkaFartiyal&theme=minimal&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 ## Projects
 
