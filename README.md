@@ -1,9 +1,4 @@
-![Open to Work](https://img.shields.io/badge/Open%20to-Internships%20%26%20Freelance-1D9E75?style=flat-square)
-![Profile Views](https://komarev.com/ghpvc/?username=KanishkaFartiyal&color=1D9E75&style=flat-square&label=Profile+views)
-
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1D9E75&width=500&lines=Hi%2C+I'm+Kanishka+%F0%9F%91%8B;Data+Analyst+%7C+Python+%26+SQL;Turning+messy+data+into+decisions)](https://git.io/typing-svg)
+# Hi, I'm Kanishka 👋
 
 Data analyst based in Bangalore. I turn messy data into decisions that make sense.
 
@@ -15,15 +10,14 @@ If you've got data that needs making sense of, let's talk.
 
 ## What I work with
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=Matplotlib&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+| | Tool | Details |
+|---|---|---|
+| 🐍 | **Python** | pandas · numpy · matplotlib · seaborn |
+| 🗄️ | **SQL** | MySQL · queries · joins · aggregations |
+| 📊 | **Power BI** | dashboards · reports · data storytelling |
+| 🎨 | **Figma** | mockups · wireframes · design flows |
 
+---
 
 ## Projects
 
@@ -72,5 +66,5 @@ Currently building out more end-to-end analysis projects and getting deeper into
 
 If you're working on something interesting or need someone to make sense of your data, reach out. I reply fast.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishkafartiyal)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kanishkafartiyal@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishkafartiyal)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kanishkafartiyal@gmail.com)
